@@ -1,3 +1,4 @@
+#include <stdbool.h>
 
 #define TEMP_MAX_LIMIT 45
 #define TEMP_MIN_LIMIT 0
