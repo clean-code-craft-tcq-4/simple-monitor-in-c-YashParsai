@@ -1,5 +1,5 @@
+#include <assert.h>
 #include "batteryChecker.h"
-#include "assert.h"
 
 float DummyInputParam[6][3] = { {20,70,0.2},{50,60,0.7},{30,60,1},{20,30,2},{50,10,1},{30,45,6} };
 
