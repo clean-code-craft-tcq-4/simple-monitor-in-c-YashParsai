@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <assert.h>
 #include <stdbool.h>
 #include "batteryChecker.h"
 #include "test_batteryChecker.h"
