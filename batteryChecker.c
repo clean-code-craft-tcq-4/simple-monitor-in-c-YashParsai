@@ -36,7 +36,6 @@ bool batteryIsOk(struct batteryParameter batteryParam)
 
 }
 
-i
 int main()
 {
 	test_battery();
