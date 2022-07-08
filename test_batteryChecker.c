@@ -12,7 +12,7 @@ void test_battery(void)
                 batteryParam.temp = DummyInputParam[i][0];
                 batteryParam.soc = DummyInputParam[i][1];
                 batteryParam.chargeRate = DummyInputParam[i][2];
-                batteryIsOk(batteryParam);
+                assert(batteryIsOk(batteryParam));
         }
 
 }
